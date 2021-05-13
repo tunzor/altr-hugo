@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Adult Like the Rest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://adultliketherest.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>investing</title>
       <link>http://adultliketherest.com/tags/investing/</link>
-      <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
       
       <guid>http://adultliketherest.com/tags/investing/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>rrsp</title>
       <link>http://adultliketherest.com/tags/rrsp/</link>
-      <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
       
       <guid>http://adultliketherest.com/tags/rrsp/</guid>
       <description></description>
@@ -32,16 +32,25 @@
     <item>
       <title>tfsa</title>
       <link>http://adultliketherest.com/tags/tfsa/</link>
-      <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
       
       <guid>http://adultliketherest.com/tags/tfsa/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>glossary</title>
+      <link>http://adultliketherest.com/tags/glossary/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://adultliketherest.com/tags/glossary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>tax-brackets</title>
       <link>http://adultliketherest.com/tags/tax-brackets/</link>
-      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
       
       <guid>http://adultliketherest.com/tags/tax-brackets/</guid>
       <description></description>
@@ -50,7 +59,7 @@
     <item>
       <title>tax-refund</title>
       <link>http://adultliketherest.com/tags/tax-refund/</link>
-      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
       
       <guid>http://adultliketherest.com/tags/tax-refund/</guid>
       <description></description>
@@ -59,43 +68,16 @@
     <item>
       <title>taxes</title>
       <link>http://adultliketherest.com/tags/taxes/</link>
-      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
       
       <guid>http://adultliketherest.com/tags/taxes/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>glossary</title>
-      <link>http://adultliketherest.com/tags/glossary/</link>
-      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://adultliketherest.com/tags/glossary/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>interest</title>
-      <link>http://adultliketherest.com/tags/interest/</link>
-      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://adultliketherest.com/tags/interest/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>magic-of-compounding</title>
-      <link>http://adultliketherest.com/tags/magic-of-compounding/</link>
-      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://adultliketherest.com/tags/magic-of-compounding/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>mortgage</title>
       <link>http://adultliketherest.com/tags/mortgage/</link>
-      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>http://adultliketherest.com/tags/mortgage/</guid>
       <description></description>
@@ -104,9 +86,27 @@
     <item>
       <title>retirement</title>
       <link>http://adultliketherest.com/tags/retirement/</link>
-      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>http://adultliketherest.com/tags/retirement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>interest</title>
+      <link>http://adultliketherest.com/tags/interest/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://adultliketherest.com/tags/interest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>magic-of-compounding</title>
+      <link>http://adultliketherest.com/tags/magic-of-compounding/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://adultliketherest.com/tags/magic-of-compounding/</guid>
       <description></description>
     </item>
     
